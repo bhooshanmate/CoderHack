@@ -33,3 +33,4 @@ While coding platforms usually host multiple contests while maintaining numerous
 | PUT | /users/{userId}/{updateBy} | To update scores |
 | DELETE | /users | To remove participants from contest |
 
+### Checkout this Postman collections - https://www.postman.com/satellite-specialist-32280848/workspace/coderhack-crio
